@@ -9,3 +9,7 @@ When you moved the mouse over a video, it let you peek in. So when you were look
 ![image](assets/GP_demo.gif)
 
 I wondered, if I could get done something similar with creating the images into webpages, where images are displayed as thumbnails and videos like gifs. 
+
+## 3. My own GooglePhotos
+The end result is exactly what I planned for: 
+[![Demo video](https://img.youtube.com/vi/FZoDrFnvjJY/0.jpg)](https://www.youtube.com/watch?v=FZoDrFnvjJY)
