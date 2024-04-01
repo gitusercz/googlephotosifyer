@@ -20,9 +20,11 @@ This script takes selected image folder processes them recursively and when it r
 
 ### 4.1 Created files for demonstration
 Before execution the two folders' content was: 
-![image](assets/Clipboard02.jpg.gif)
+
+![image](assets/Clipboard02.jpg)
 
 After the script finished running: 
+
 ![image](assets/Clipboard03.jpg)
  
 ### 4.2 How it workd in detail
