@@ -27,8 +27,8 @@ After the script finished running:
 
 ![image](assets/Clipboard03.jpg)
  
-### 4.2 How it workd in detail
-First I worked on extracting the fames from videos. For that I used cv2. Then I used the cv2 librarx for image thumbnail creation too. I found that for some types of images cv2 failed to work, so I moved the cv2 method into a try and into except I used PIL. I tried with 10 frames with 4 fps gifs. I randomly came up with these values, but after some trials I found that this gives a good balance between small gif sizes while gives a good insight into the video content. Definitely better than a first frame as a thumbnail! 
+### 4.2 How it works in detail
+First I worked on extracting the frames from videos. For that I used cv2. Then I used the cv2 library for image thumbnail creation too. I found that for some types of images cv2 failed to work, so I moved the cv2 method into a try and in except I used PIL. I tried with 10 frames with 4 fps gifs. I randomly came up with these values, but after some trials I found that this gives a good balance between small gif sizes while giving a good insight into video content. Definitely better than a first frame as a thumbnail! 
 
 ## 5 Use
 This page is purely for demonstration purposes. Use at your own risk and as you wish. 
